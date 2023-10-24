@@ -1,0 +1,23 @@
+// Fecha de Creacion:
+// Nombre: Jose Campos Chaves
+// Fecha de ultima modificacion:
+// Descripcion:
+//
+
+#include <iostream>
+//#include <string>
+//#include <array>
+//#include <iomanip>
+
+using namespace std;
+
+int main()
+{
+
+
+
+
+
+
+  return 0;
+}
